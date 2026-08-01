@@ -1,0 +1,26 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="gradient" x1="0" y1="0" x2="220" y2="60">
+<stop stop-color="#FF008C"/>
+<stop offset="1" stop-color="#00E5FF"/>
+</linearGradient>
+</defs>
+
+<text x="10" y="42"
+font-family="Arial, sans-serif"
+font-size="38"
+font-weight="700"
+fill="url(#gradient)">
+PF
+</text>
+
+<text x="65" y="38"
+font-family="Arial, sans-serif"
+font-size="22"
+font-weight="600"
+fill="white">
+PixelFlow
+</text>
+
+</svg>
